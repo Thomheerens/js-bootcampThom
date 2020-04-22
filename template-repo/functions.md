@@ -4,7 +4,10 @@
 1. Modularity <br/>
 2. Reusability <br/>
 <br/>
-Functions are a way to organise ur programm
+Functions are a way to organise ur programm <br/> 
+<br/>
+function "draw" = Loops the particular code <br/>
+function "setup" = Uses the code ones <br/>
 <hr>
 
 
