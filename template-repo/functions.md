@@ -5,6 +5,7 @@
 2. Reusability <br/>
 <br/>
 Functions are a way to organise ur programm
+<hr>
 
 
 #### The Net Ninja - Modern JavaScript functions (video)
